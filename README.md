@@ -1,7 +1,5 @@
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/Ricksmer?v=1788606084374"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
+<img
+  alt="GitAscii Profile"
+  src="https://gitascii.com/api/user/Ricksmer?v=1740672000"
+  width="100%"
+/>
