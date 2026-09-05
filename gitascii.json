@@ -1,0 +1,784 @@
+{
+  "widgets": [
+    {
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 136
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Surveillance Header",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88",
+        "hideBorder": false,
+        "roleTag": "Developer",
+        "modeTag": "198X MODE",
+        "showTitle": false,
+        "textColor": "#ffffff",
+        "animationType": "typewriter",
+        "animationPreviewKey": 21,
+        "animationEasing": "ease-in-out"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1788602062802_0"
+    },
+    {
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 10,
+        "y": 1197
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Terminal Telemetry",
+        "showTitle": false,
+        "username": "Rikuu",
+        "animationType": "slide-up",
+        "animationPreviewKey": 8,
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1788602062802_1"
+    },
+    {
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
+      "position": {
+        "x": 10,
+        "y": 2291
+      },
+      "size": {
+        "width": 780,
+        "height": 190
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Surveillance Social Feeds",
+        "secondaryColor": "#00ff88",
+        "ledColor": "#00ff88",
+        "showTitle": false,
+        "renderMode": "grid",
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1788602062802_2"
+    },
+    {
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 10,
+        "y": 2513
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Daily Loadout",
+        "animationType": "slide-up",
+        "animationPreviewKey": 1,
+        "languages": [
+          "Python",
+          "PHP",
+          "Kotlin",
+          "JavaScript",
+          "Java",
+          "CSS3",
+          "HTML5",
+          "TypeScript",
+          "C"
+        ],
+        "workflow": [
+          "VS Code",
+          "Git",
+          "Terminal",
+          "PowerShell",
+          "Figma",
+          "React",
+          "Next.js",
+          "Tailwind",
+          "Node.js",
+          "PostgreSQL",
+          "GitHub",
+          "Vercel"
+        ],
+        "displayMode": "both",
+        "secondaryColor": "#00ff88",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1788602062802_3"
+    },
+    {
+      "instanceId": "widget_1788602565173",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 1633
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788602581540",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 1015
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1788602897782",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 0,
+        "y": 615
+      },
+      "size": {
+        "width": 800,
+        "height": 248
+      },
+      "config": {
+        "customBio": "A BSIT student who works at the intersection of logic and creativity, equally comfortable troubleshooting code as refining a visual design. Approaches problems with curiosity and discipline, drawn to the process of building something from the ground up — whether that's a piece of software or a creative concept. Brings a steady, detail-oriented mindset to deadlines and collaborative work, shaped by experience leading creative teams and balancing technical and design-focused responsibilities. Values thoughtful execution over shortcuts, and finds the most satisfaction in work where structure and creativity meet.",
+        "textAlign": "left",
+        "customBlog": "",
+        "animationType": "slide-up",
+        "animationPreviewKey": 1,
+        "accentColor": "#c5ff4a",
+        "textColor": "#00ff88",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788602911518",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 2119
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "py",
+          "php",
+          "kotlin",
+          "js",
+          "java",
+          "css",
+          "ts",
+          "c",
+          "html",
+          "react",
+          "nextjs",
+          "nodejs",
+          "express",
+          "mysql",
+          "postgres",
+          "aws",
+          "gcp",
+          "vercel",
+          "git",
+          "github",
+          "vscode",
+          "figma",
+          "blender",
+          "notion"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1788602989243",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "RIKUU",
+        "asciiFont": "block",
+        "charSpacing": 2,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "███████▄  ████████  ██    ██  ██    ██  ██    ██",
+          "██    ██     ██     ██  ▄█▀   ██    ██  ██    ██",
+          "███████▀     ██     █████▄    ██    ██  ██    ██",
+          "██  ▀██▄     ██     ██  ▀██▄  ██    ██  ██    ██",
+          "██    ██  ████████  ██    ██   ▀████▀    ▀████▀ "
+        ],
+        "accentColor": "#00ff88",
+        "cols": 45,
+        "detail": "medium",
+        "animationType": "glitch",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_1788603192497",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 569
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "widget_1788603197908",
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
+      "position": {
+        "x": 0,
+        "y": 1769
+      },
+      "size": {
+        "width": 800,
+        "height": 256
+      },
+      "config": {
+        "repoCardHeight": 66,
+        "accentColor": "#00ff88",
+        "repoSortBy": "forks",
+        "maxRepos": 3,
+        "repoViewMode": "list",
+        "showTitle": false,
+        "selectedRepos": [
+          "OnlineMarketplace",
+          "ExpressJS-First-Web-Server-",
+          "SariSmart"
+        ],
+        "animationType": "slide-up",
+        "animationPreviewKey": 1,
+        "showRepoStars": false,
+        "showRepoForks": false,
+        "showRepoUpdated": true,
+        "showRepoDesc": true,
+        "showRepoLanguage": false,
+        "lockAspectRatio": false,
+        "hideBorder": true,
+        "textColor": "#55ffff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1788603600573",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 879
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "instagram",
+          "email",
+          "website"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/Ricksmer",
+          "website": "https://buymeacoffee.com/ricksmercan",
+          "instagram": "https://instagram.com/Reeecksmer",
+          "linkedin": "https://www.linkedin.com/in/ricksmer-cabatingan/",
+          "email": "mailto:ricksmer.cabatingan219@gmail.com"
+        },
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1788603792193",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
+      "position": {
+        "x": 0,
+        "y": 1061
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "hideBorder": true,
+        "hideDecorations": true,
+        "animationType": "none",
+        "animationPreviewKey": 9,
+        "marqueeLangs": [
+          "react",
+          "ts",
+          "js",
+          "html",
+          "css",
+          "nodejs",
+          "python",
+          "git",
+          "linux",
+          "py",
+          "c",
+          "java",
+          "php",
+          "kotlin",
+          "express",
+          "mysql",
+          "github",
+          "vscode",
+          "figma",
+          "vercel",
+          "notion",
+          "blender"
+        ],
+        "borderColor": "#060606",
+        "textColor": "#55ffff",
+        "backgroundColor": "#060606"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1788604746650_0",
+      "widgetId": "divider",
+      "name": "Divider Widget (Cópia)",
+      "position": {
+        "x": 0,
+        "y": 2073
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    },
+    {
+      "instanceId": "widget_1788604970939",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 2699
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 16
+    },
+    {
+      "instanceId": "widget_1788605008313",
+      "widgetId": "pokemon-card",
+      "name": "Pokemon-card Widget",
+      "position": {
+        "x": 6,
+        "y": 2913
+      },
+      "size": {
+        "width": 392,
+        "height": 392
+      },
+      "config": {
+        "searchQuery": "Pikachu",
+        "searchCards": [
+          {
+            "id": "fut2020-1",
+            "name": "Pikachu on the Ball",
+            "image": "https://assets.tcgdex.net/en/swsh/fut2020/1/low.webp"
+          },
+          {
+            "id": "basep-1",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/base/basep/1/low.webp"
+          },
+          {
+            "id": "basep-4",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/base/basep/4/low.webp"
+          },
+          {
+            "id": "cel25-5",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/5/low.webp"
+          },
+          {
+            "id": "cel25-6",
+            "name": "Flying Pikachu V",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/6/low.webp"
+          },
+          {
+            "id": "cel25-7",
+            "name": "Flying Pikachu VMAX",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/7/low.webp"
+          },
+          {
+            "id": "ru1-7",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pl/ru1/7/low.webp"
+          },
+          {
+            "id": "cel25-8",
+            "name": "Surfing Pikachu V",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/8/low.webp"
+          },
+          {
+            "id": "cel25-9",
+            "name": "Surfing Pikachu VMAX",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/9/low.webp"
+          },
+          {
+            "id": "pop6-9",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop6/9/low.webp"
+          },
+          {
+            "id": "P-A-009",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/009/low.webp"
+          },
+          {
+            "id": "det1-10",
+            "name": "Detective Pikachu",
+            "image": "https://assets.tcgdex.net/en/sm/det1/10/low.webp"
+          },
+          {
+            "id": "pop5-12",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop5/12/low.webp"
+          },
+          {
+            "id": "np-12",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/np/12/low.webp"
+          },
+          {
+            "id": "pop5-13",
+            "name": "Pikachu δ",
+            "image": "https://assets.tcgdex.net/en/pop/pop5/13/low.webp"
+          },
+          {
+            "id": "pop4-13",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop4/13/low.webp"
+          },
+          {
+            "id": "pop9-15",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop9/15/low.webp"
+          },
+          {
+            "id": "P-A-015",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/015/low.webp"
+          },
+          {
+            "id": "pop2-16",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop2/16/low.webp"
+          },
+          {
+            "id": "sv04.5-018",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.webp"
+          }
+        ],
+        "imageUrl": "https://assets.tcgdex.net/en/tcgp/P-A/009/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/P-A/009/low.webp",
+        "lockAspectRatio": true,
+        "enableHolo": false,
+        "animationType": "slide-right",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 18
+    },
+    {
+      "instanceId": "widget_1788605013598",
+      "widgetId": "pokemon-card",
+      "name": "Pokemon-card Widget",
+      "position": {
+        "x": 398,
+        "y": 2913
+      },
+      "size": {
+        "width": 392,
+        "height": 392
+      },
+      "config": {
+        "searchQuery": "Umbreon",
+        "searchCards": [
+          {
+            "id": "hgss3-10",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/hgss/hgss3/10/low.webp"
+          },
+          {
+            "id": "neo2-13",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/neo/neo2/13/low.webp"
+          },
+          {
+            "id": "pop5-17",
+            "name": "Umbreon ★",
+            "image": "https://assets.tcgdex.net/en/pop/pop5/17/low.webp"
+          },
+          {
+            "id": "ex11-17",
+            "name": "Umbreon δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex11/17/low.webp"
+          },
+          {
+            "id": "col1-22",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/col/col1/22/low.webp"
+          },
+          {
+            "id": "ex2-24",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/ex/ex2/24/low.webp"
+          },
+          {
+            "id": "neo2-32",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/neo/neo2/32/low.webp"
+          },
+          {
+            "id": "dp5-32",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/dp/dp5/32/low.webp"
+          },
+          {
+            "id": "ecard3-32",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard3/32/low.webp"
+          },
+          {
+            "id": "ecard2-41",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard2/41/low.webp"
+          },
+          {
+            "id": "A3b-043",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/tcgp/A3b/043/low.webp"
+          },
+          {
+            "id": "xy10-55",
+            "name": "Umbreon EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy10/55/low.webp"
+          },
+          {
+            "id": "sv08.5-059",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/sv/sv08.5/059/low.webp"
+          },
+          {
+            "id": "sv08.5-060",
+            "name": "Umbreon ex",
+            "image": "https://assets.tcgdex.net/en/sv/sv08.5/060/low.webp"
+          },
+          {
+            "id": "bw5-60",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/bw/bw5/60/low.webp"
+          },
+          {
+            "id": "bw5-61",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/bw/bw5/61/low.webp"
+          },
+          {
+            "id": "bw9-64",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/bw/bw9/64/low.webp"
+          },
+          {
+            "id": "A3b-077",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/tcgp/A3b/077/low.webp"
+          },
+          {
+            "id": "sm1-80",
+            "name": "Umbreon GX",
+            "image": "https://assets.tcgdex.net/en/sm/sm1/80/low.webp"
+          },
+          {
+            "id": "hgss3-86",
+            "name": "Umbreon",
+            "image": "https://assets.tcgdex.net/en/hgss/hgss3/86/low.webp"
+          }
+        ],
+        "imageUrl": "https://assets.tcgdex.net/en/tcgp/A3b/077/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/A3b/077/low.webp",
+        "lockAspectRatio": true,
+        "enableHolo": false,
+        "animationType": "slide-left",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 19
+    },
+    {
+      "instanceId": "widget_1788605333724",
+      "widgetId": "surveillance-title",
+      "name": "Surveillance-title Widget",
+      "position": {
+        "x": 10,
+        "y": 3353
+      },
+      "size": {
+        "width": 780,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Ricksmer Cabatingan",
+        "ledColor": "#00ff88",
+        "animationType": "slide-up",
+        "animationPreviewKey": 1,
+        "hideBorder": true,
+        "secondaryColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 18
+    },
+    {
+      "instanceId": "widget_1788605469379",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 2745
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "POKEMON",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "███████▄  ▄████▄  ██    ██ ████████ ██    ██  ▄████▄  ██    ██",
+          "██    ██ ██    ██ ██  ▄█▀  ██       ████████ ██    ██ ███   ██",
+          "███████▀ ██    ██ █████▄   ██████   ██ ▀▀ ██ ██    ██ ██▀█  ██",
+          "██       ██    ██ ██  ▀██▄ ██       ██    ██ ██    ██ ██ ▀█ ██",
+          "██        ▀████▀  ██    ██ ████████ ██    ██  ▀████▀  ██   ███"
+        ],
+        "textColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 19
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "rugbedbugg",
+    "transparentBackground": false
+  },
+  "templateId": "rugbedbugg"
+}
