@@ -1,11 +1,12 @@
 {
+  "username": "Ricksmer",
   "widgets": [
     {
       "widgetId": "surveillance-header",
       "name": "Surveillance-header Widget",
       "position": {
         "x": 10,
-        "y": 136
+        "y": 144
       },
       "size": {
         "width": 780,
@@ -74,7 +75,7 @@
         "ledColor": "#00ff88",
         "showTitle": false,
         "renderMode": "grid",
-        "animationType": "none",
+        "animationType": "slide-up",
         "animationPreviewKey": 1
       },
       "locked": false,
@@ -780,5 +781,6 @@
     "templateStyle": "rugbedbugg",
     "transparentBackground": false
   },
-  "templateId": "rugbedbugg"
+  "templateId": "rugbedbugg",
+  "profileSlug": "default"
 }
