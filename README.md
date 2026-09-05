@@ -1,6 +1,6 @@
-<a href="http://localhost:3000">
+<a href="https://gitascii.com">
   <img
-    src="http://localhost:3000/api/Ricksmer?v=1788605711031"
+    src="https://gitascii.com/api/Ricksmer?v=1788606084374"
     alt="GitAscii Widget"
     width="100%"
   />
