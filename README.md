@@ -1,115 +1,82 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ricksmer Cabatingan</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30" width="30" alt="typing cat">, I'm Ricksmer Cabatingan</h1>
+<h3 align="center">Software Developer · Designer · Creative Technologist</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Ricksmer">
-    <img src="https://komarev.com/ghpvc/?username=Ricksmer&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ricksmer's profile views" />
-  </a>
+  <a href="https://komarev.com/ghpvc/?username=Ricksmer"><img src="https://komarev.com/ghpvc/?username=Ricksmer&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ricksmer's profile views"></a>
 </p>
 
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Animated fantasy banner" width="100%">
 
-## 📌 About Me
-- 🔭 I'm currently working on — building and maintaining my dev/academic portfolio, and Creatives Lead work at GDGoC CIT-U
-- 👯 I'm looking to collaborate on — dev projects, hackathons, and game jams with other devs
-- 🌱 I'm currently learning — deepening my Java & SQL skills, and exploring more of JavaScript/PHP for web projects
-- 💬 Ask me about — Java, competitive programming, hackathons, or creative/design tools like Figma & Canva
-- ⚡ Fun fact — I'm a National DOST Scholar and once ranked Top 1 in a C Programming certification
+## 💫 About Me
 
+- 🔭 Building and maintaining my development and academic portfolio, while serving as Creatives Lead at GDGoC CIT-U.
+- 👯 Open to collaborating on development projects, hackathons, and game jams.
+- 🌱 Deepening my Java and SQL skills, and exploring JavaScript and PHP for web projects.
+- 💬 Ask me about Java, competitive programming, hackathons, or creative tools such as Figma and Canva.
+- ⚡ National DOST Scholar and former Top 1 in a C Programming certification.
 
-## 🧠 My Focus Areas
-- UI/UX Design
-- Frontend Development
-- Game Development
+## 🧠 Focus Areas
 
+`UI/UX Design` · `Frontend Development` · `Game Development`
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.facebook.com/ricksmer.cabatingan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/Reeecksmer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/ricksmer-cabatingan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mastodon.social/@Ricksmer"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
+  <a href="mailto:ricksmer.cabatingan219@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+## 🛠️ Tech Stack
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,kotlin,c,html,css&theme=dark" alt="Java, JavaScript, TypeScript, Python, PHP, Kotlin, C, HTML, and CSS">
+</p>
+
+<h3 align="center">Web & Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,postgres,aws,gcp,vercel&theme=dark" alt="React, Next.js, Node.js, Express, MySQL, PostgreSQL, AWS, Google Cloud, and Vercel">
+</p>
+
+<h3 align="center">Creative & Development Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ae,blender,godot,notion&theme=dark" alt="Git, GitHub, VS Code, Figma, Photoshop, After Effects, Blender, Godot, and Notion">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ricksmer"><img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ricksmer&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Ricksmer's top languages"></a>
+</p>
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <a href="https://github.com/Ricksmer">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ricksmer&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Ricksmer's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Ricksmer&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ricksmer's GitHub Streak" width="49%" />
+  <a href="https://github.com/Ricksmer"><img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ricksmer&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Ricksmer's GitHub stats"></a>
+  <img src="https://streak-stats.demolab.com/?user=Ricksmer&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ricksmer's GitHub streak" width="49%">
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Ricksmer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ricksmer Cabatingan's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Ricksmer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ricksmer's GitHub trophies">
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ricksmer&theme=tokyonight&radius=10" alt="Ricksmer's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-
+  <img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=Ricksmer&theme=tokyonight&radius=10" alt="Ricksmer's contribution activity graph">
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-
-</p>
+## 🎮 Contributions in Motion
 
 <p align="center">
-  <a href="https://github.com/Ricksmer">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ricksmer&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=Ricksmer)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ricksmer-cabatingan/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;
-  <a href="mailto:ricksmer.cabatingan219@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Animated space-shooter contribution graph">
 </p>
 
 ## 💬 Quote
-> "I Love Pizza."
+
+> “I Love Pizza.”
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <a href="https://buymeacoffee.com/ricksmercan"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee.com/ricksmercan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated footer" width="100%">
 </div>
-
