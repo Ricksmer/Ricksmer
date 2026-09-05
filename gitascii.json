@@ -74,7 +74,7 @@
         "ledColor": "#00ff88",
         "showTitle": false,
         "renderMode": "grid",
-        "animationType": "slide-up",
+        "animationType": "none",
         "animationPreviewKey": 1
       },
       "locked": false,
